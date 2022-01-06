@@ -1,0 +1,7 @@
+{
+    "test":"/home/rd41/Desktop/SSS-PTS-TEST/test/",
+    "report":"/home/rd41/Desktop/SSS-PTS-TEST/report/",
+    "run":"run.sh",
+    "tmp":"tmp",
+    "log":"log.txt"
+}
