@@ -6,7 +6,7 @@ SNIA SSS PTS describes a solid state storage device-level performance test metho
 test suite and reporting format intended to provide an accurate, repeatable and reliable comparison 
 of NAND Flash-based solid state storage products of various form factors, protocols and interfaces used in Client and Enterprise applications.
 
-This is a software that can execute SNIA [Solid State Storage (SSS) Performance Test Specification (PTS)](https://www.snia.org/tech_activities/standards/curr_standards/pts) v2.0 test. It performs FIO testing through PHP CLI. Finally uses terminal to execute and generate report PDF.
+This is a software that can execute SNIA [Solid State Storage (SSS) Performance Test Specification (PTS)](https://www.snia.org/tech_activities/standards/curr_standards/pts) v2.0 test. It performs FIO testing through PHP CLI and finally uses terminal to execute and generate PDF report.
 
 Each directory is described as follows
   - **test**
@@ -64,7 +64,7 @@ Each directory is described as follows
   Servers in data centers, storage arrays, and enterprise wide / multiple user environments that employ direct attached storage, 
   storage attached networks and tiered storage architectures. \
   _Client_: \
-  laptop or desktop computers used in small office, home, mobile, entertainment and other single user applications.
+  laptop or desktop computers used in small offices, home, mobile, entertainment and other single user applications.
 
 #
   **Report**
