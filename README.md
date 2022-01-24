@@ -75,6 +75,8 @@ Each directory is described as follows
   
   <img src="https://github.com/transcend-information/SNIA-SSS-PTS/blob/main/imgs/1641261538248.jpg" width=95% height=95%>
   
+  <img src="https://github.com/transcend-information/SNIA-SSS-PTS/blob/main/imgs/1641261649649.jpg" width=95% height=95%>
+  
 #  
   **Note**
 This software contains code derived from [cloudharmony/block-storage](https://github.com/cloudharmony/block-storage) and [Alan-ADATA/SSS-PTS-TEST](https://github.com/Alan-ADATA/SSS-PTS-TEST).
